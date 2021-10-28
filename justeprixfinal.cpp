@@ -46,8 +46,9 @@ void trouverlejusteprix(const unsigned & min, const unsigned & max)
             cin>> Prix;
             j = j + 1;
         }
-        }
     }
+    cout << " Bravo, l'équipe 2 a trouvé le juste prix en " <<endl;
+    cin >> j;
     if (i > j){
         cout << "l'equipe 1 gagne" <<endl;
     }
