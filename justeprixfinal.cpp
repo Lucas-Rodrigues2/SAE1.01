@@ -9,7 +9,7 @@ void trouverlejusteprix(const unsigned & min, const unsigned & max)
     i = 0;
     j = 0;
     cout << " régle du juste prix"<< endl;
-    cout << " l'ordinateur  choisit un prix que l'équipe 1 et ensuite l'équipe 2 devront trouver, celle avec le moins de tentative Gagnent " << endl;
+    cout << " l'ordinateur  choisit un prix que l'équipe 1 et ensuite l'équipe 2 devront trouver, celle avec le moins de tentative gagne " << endl;
 
 
     cout<< " l'équipe 1 choisit un prix : " << endl;
