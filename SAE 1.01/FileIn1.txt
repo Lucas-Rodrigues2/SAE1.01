@@ -1,0 +1,355 @@
+4//seed
+10//nombre de groupes
+10//membres par groupes
+
+carre//nom groupe 1
+//Joueurs
+LOPITAUX Florian
+REBOUL Nathan
+DEJEAN Thomas
+BONNIN Enzo
+RODRIGUES Lucas
+RUELLAN Theo
+MEKERKE Enzo
+LARTIGAUD Elliot
+LANGUILLE Gabriel
+DECLE Romain
+
+cercle//nom groupe 2
+//Joueurs
+ABOU Bryan
+ALBERTELLI Maxime
+ALI Mdallah
+AUTANT Felix
+BADJOUDJ Hana
+BARTHELLEMY Nicolas
+BELKHODDAM Habib
+BIGA Paul
+BOUGEARD Bastien
+BOUVERET Victor
+
+rectangle//nom groupe 3
+//Joueurs
+CANALE Enzo
+CAPELIER Mathieu
+CARRE Clement
+CASTILLO Clarens
+CAZALS Mathias
+CECCARELLI Luca
+CHARLIER-DIEUZAIDE Lucas
+CHARPENTIER Theo
+CHUPIN-BEVIER Tao
+CILLEROS Antony
+
+triangle//nom groupe 4
+//Joueurs
+CLAVERIE Killian
+CLEMENT Romain
+COMBET Jules
+CONTINO Maxime
+DAM-QUANG Minh
+DE-PERMENTIER Thibault
+DE-PLANCKE Tibo
+DELIN Maxime
+DELOGU Louis
+DESSAUD Hugo
+
+octogone//nom groupe 5
+//Joueurs
+DJERIAN Noemie
+DOMAGE-CICCHELERO Hugo
+DUGOURD Clement
+EGENSCHEVILLER Frederic
+ELISA Ellio
+FABRE Lucas
+GANASSI Alexandre
+GAYRARD Elvis
+GERVILLIERS Mattias
+GIL Killian
+
+trapeze//nom groupe 6
+//Joueurs
+GINI David
+GIRAULT Kevin
+GODEREAUX Heliot
+GONTIER Luke
+GONZALES Andy
+GONZALES Lenny
+GOUDEZEUNE Antonin
+GOUJON William
+GROSS Jeremy
+HENAULT Clementine
+
+losange//nom groupe 7
+//Joueurs
+HUGUES Melanie
+IOV Clement
+JOLY Lucas
+KADDOURI Mohammed
+KUSIAK Guillaume
+LAFITTE Antoine
+LAGET Johan
+LAHAIE Thibaut
+LAIB Hossame-eddine
+LAMBERT Maxime
+
+pentagone//nom groupe 8
+//Joueurs
+LARBAOUI Riyad
+LAURENT Nicolas
+LE-MAISTRE Tom
+LECOMTE Arthur
+LEINER Lucas
+LEYDIER Elisee
+LITIM Nino
+LUONG Le-marshals
+MAOULIDA-ATTOUMANI Yazid-raoul
+SABI Rayane
+
+hexagone//nom groupe 9
+//Joueurs
+MARIOTTI Alexis
+MATTERA Aurelien
+MEKERKE Enzo
+METAYER Sloane
+MICHEL Jorick
+MONTERIN Maxime
+MOUMANE Souhaila
+MURATET Lucas
+NEGGAZI Ramy
+PISTORESI Marius
+
+ovale// nom groupe 10
+// Joueurs
+PONOMARENKO Edouard
+PUGI Yohan
+RAGAIGNE Fabrice
+RAMDANI Djibril
+RIVALIN Eliott
+RIZIKI Manssour
+ROUTIER Fabien
+RUBINI Thomas
+SAADI Elias
+SAADI Nils
+
+
+// Round1 (âge du capitaine)
+// Match 'carre' vs 'ovale'
+52//nombre choisi par le groupe carre
+
+27
+43
+94
+92
+53
+51
+52
+
+// Match 'cercle' vs 'hexagone'
+77//nombre choisi par le groupe cercle
+
+71
+72
+96
+80
+73
+74
+77
+
+// Match 'rectangle' vs 'pentagone'
+38//nombre choisi par le groupe rectangle
+
+94
+27
+77
+38
+
+// Match 'triangle' vs 'losange'
+3//nombre choisi par le groupe triangle
+
+65
+52
+48
+18
+7
+2
+3
+
+// Match 'octogone' vs 'trapeze'
+30//nombre choisi par le groupe octogone
+
+71
+30
+
+
+// Round2 (morpion)
+// Match 'trapeze' vs 'losange'
+0//symbole choisi par le groupe losange
+X//symbole choisi par le groupe trapeze
+
+// case choisit
+1
+9
+5
+6
+8
+4
+3
+7
+2
+
+// Match 'pentagone' vs 'hexagone'
+0//symbole choisi par le groupe hexagone
+X//symbole choisi par le groupe pentagone
+
+// case choisit
+7
+3
+6
+1
+2
+9
+8
+4
+5
+
+// Match 'ovale' vs 'cercle'
+0//symbole choisi par le groupe cercle
+X//symbole choisi par le groupe ovale
+
+// case choisit
+8
+9
+6
+2
+1
+5
+4
+7
+3
+
+// Match 'carre' vs 'rectangle'
+0//symbole choisi par le groupe rectangle
+X//symbole choisi par le groupe carre
+
+// case choisit
+3
+7
+5
+1
+4
+2
+6
+
+// Match 'triangle' vs 'octogone'
+0//symbole choisi par le groupe octogone
+X//symbole choisi par le groupe triangle
+
+// case choisit
+5
+6
+9
+7
+1
+
+// Round3 (pile ou face)
+// Match 'ovale' vs 'trapeze'
+pile//symbole choisi par le groupe ovale
+face//symbole choisi par le groupe trapeze
+
+pile
+face
+pile
+pile
+
+// Match 'losange' vs 'pentagone'
+pile//symbole choisi par le groupe losange
+face//symbole choisi par le groupe pentagone
+
+face
+face
+face
+pile
+
+// Match 'carre' vs 'hexagone'
+pile//symbole choisi par le groupe hexagone
+face//symbole choisi par le groupe carre
+
+pile
+face
+face
+pile
+
+// Match 'triangle' vs 'octogone'
+pile//symbole choisi par le groupe losange
+face//symbole choisi par le groupe pentagone
+
+
+// Round4 (pendu)
+// Match 'ovale' vs 'hexagone'
+famille//mot choisi par le groupe ovale
+k
+q
+m
+z
+i
+v
+y
+f
+x
+w
+l
+g
+
+// Match 'trapeze' vs 'pentagone'
+famille//mot choisi par le groupe trapeze
+t
+c
+v
+j
+w
+m
+o
+l
+s
+f
+y
+
+// Match 'losange' vs 'octogone'
+famille//mot choisi par le groupe losange
+t
+q
+y
+g
+r
+i
+p
+m
+o
+w
+
+// Match 'carre' vs 'cercle'
+famille//mot choisi par le groupe cercle
+n
+y
+s
+u
+f
+e
+j
+w
+v
+h
+
+// Match 'rectangle' vs 'triangle'
+famille//mot choisi par le groupe rectangle
+y
+g
+h
+l
+d
+e
+t
+c
+v
+w

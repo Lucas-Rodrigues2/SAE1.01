@@ -1,0 +1,870 @@
+
+██████   ██████  ██    ██ ███    ██ ██████ 		  ██
+██   ██ ██    ██ ██    ██ ████   ██ ██   ██		████
+██████  ██    ██ ██    ██ ██ ██  ██ ██   ██		  ██
+██   ██ ██    ██ ██    ██ ██  ██ ██ ██   ██		  ██
+██   ██  ██████   ██████  ██   ████ ██████ 		  ██
+
+┌┐┌┌─┐┬ ┬  ┌┬┐┌─┐┌┬┐┌─┐┬ ┬		
+│││├┤ │││  │││├─┤ │ │  ├─┤		
+┘└┘└─┘└┴┘  ┴ ┴┴ ┴ ┴ └─┘┴ ┴		
+Le groupe 'carre' va affronter le groupe 'ovale' au jeu de l'âge du capitaine.
+Que le groupe 'carre' saisisse l'âge du capitaine (entre 1 et 100) : 80
+
+Que le groupe 'ovale' saisissie un âge : 62
+Dommage, c'est plus ! Il vous reste 7 essais.
+
+Que le groupe 'ovale' saisissie un âge : 68
+Dommage, c'est plus ! Il vous reste 6 essais.
+
+Que le groupe 'ovale' saisissie un âge : 92
+Dommage, c'est moins ! Il vous reste 5 essais.
+
+Que le groupe 'ovale' saisissie un âge : 88
+Dommage, c'est moins ! Il vous reste 4 essais.
+
+Que le groupe 'ovale' saisissie un âge : 81
+Dommage, c'est moins ! Il vous reste 3 essais.
+
+Que le groupe 'ovale' saisissie un âge : 76
+Dommage, c'est plus ! Il vous reste 2 essais.
+
+Que le groupe 'ovale' saisissie un âge : 77
+Dommage, c'est plus ! Il vous reste 1 essais.
+
+Que le groupe 'ovale' saisissie un âge : 78
+Dommage, c'est plus ! Il vous reste 0 essais.
+
+Le groupe 'carreremporte 1 point.
+
+┌┐┌┌─┐┬ ┬  ┌┬┐┌─┐┌┬┐┌─┐┬ ┬		
+│││├┤ │││  │││├─┤ │ │  ├─┤		
+┘└┘└─┘└┴┘  ┴ ┴┴ ┴ ┴ └─┘┴ ┴		
+Le groupe 'cercle' va affronter le groupe 'hexagone' au jeu de l'âge du capitaine.
+Que le groupe 'cercle' saisisse l'âge du capitaine (entre 1 et 100) : 90
+
+Que le groupe 'hexagone' saisissie un âge : 87
+Dommage, c'est plus ! Il vous reste 7 essais.
+
+Que le groupe 'hexagone' saisissie un âge : 94
+Dommage, c'est moins ! Il vous reste 6 essais.
+
+Que le groupe 'hexagone' saisissie un âge : 90
+Bien joué ! Vous avez trouvé l'âge du capitaine.
+
+Le groupe 'hexagone' remporte 1 point.
+
+┌┐┌┌─┐┬ ┬  ┌┬┐┌─┐┌┬┐┌─┐┬ ┬		
+│││├┤ │││  │││├─┤ │ │  ├─┤		
+┘└┘└─┘└┴┘  ┴ ┴┴ ┴ ┴ └─┘┴ ┴		
+Le groupe 'rectangle' va affronter le groupe 'pentagone' au jeu de l'âge du capitaine.
+Que le groupe 'rectangle' saisisse l'âge du capitaine (entre 1 et 100) : 46
+
+Que le groupe 'pentagone' saisissie un âge : 76
+Dommage, c'est moins ! Il vous reste 7 essais.
+
+Que le groupe 'pentagone' saisissie un âge : 26
+Dommage, c'est plus ! Il vous reste 6 essais.
+
+Que le groupe 'pentagone' saisissie un âge : 49
+Dommage, c'est moins ! Il vous reste 5 essais.
+
+Que le groupe 'pentagone' saisissie un âge : 35
+Dommage, c'est plus ! Il vous reste 4 essais.
+
+Que le groupe 'pentagone' saisissie un âge : 42
+Dommage, c'est plus ! Il vous reste 3 essais.
+
+Que le groupe 'pentagone' saisissie un âge : 46
+Bien joué ! Vous avez trouvé l'âge du capitaine.
+
+Le groupe 'pentagone' remporte 1 point.
+
+┌┐┌┌─┐┬ ┬  ┌┬┐┌─┐┌┬┐┌─┐┬ ┬		
+│││├┤ │││  │││├─┤ │ │  ├─┤		
+┘└┘└─┘└┴┘  ┴ ┴┴ ┴ ┴ └─┘┴ ┴		
+Le groupe 'triangle' va affronter le groupe 'losange' au jeu de l'âge du capitaine.
+Que le groupe 'triangle' saisisse l'âge du capitaine (entre 1 et 100) : 24
+
+Que le groupe 'losange' saisissie un âge : 39
+Dommage, c'est moins ! Il vous reste 7 essais.
+
+Que le groupe 'losange' saisissie un âge : 20
+Dommage, c'est plus ! Il vous reste 6 essais.
+
+Que le groupe 'losange' saisissie un âge : 37
+Dommage, c'est moins ! Il vous reste 5 essais.
+
+Que le groupe 'losange' saisissie un âge : 24
+Bien joué ! Vous avez trouvé l'âge du capitaine.
+
+Le groupe 'losange' remporte 1 point.
+
+┌┐┌┌─┐┬ ┬  ┌┬┐┌─┐┌┬┐┌─┐┬ ┬		
+│││├┤ │││  │││├─┤ │ │  ├─┤		
+┘└┘└─┘└┴┘  ┴ ┴┴ ┴ ┴ └─┘┴ ┴		
+Le groupe 'octogone' va affronter le groupe 'trapeze' au jeu de l'âge du capitaine.
+Que le groupe 'octogone' saisisse l'âge du capitaine (entre 1 et 100) : 99
+
+Que le groupe 'trapeze' saisissie un âge : 24
+Dommage, c'est plus ! Il vous reste 7 essais.
+
+Que le groupe 'trapeze' saisissie un âge : 92
+Dommage, c'est plus ! Il vous reste 6 essais.
+
+Que le groupe 'trapeze' saisissie un âge : 98
+Dommage, c'est plus ! Il vous reste 5 essais.
+
+Que le groupe 'trapeze' saisissie un âge : 99
+Bien joué ! Vous avez trouvé l'âge du capitaine.
+
+Le groupe 'trapeze' remporte 1 point.
+
+┬─┐┌─┐┌─┐┬ ┬┬ ┌┬┐┌─┐┌┬┐		
+├┬┘├┤ └─┐│ ││  │ ├─┤ │		
+┴└─└─┘└─┘└─┘┴─┘┴ ┴ ┴ ┴		
+Classement  -  Groupe  -  Points
+1:	carre	1
+2:	trapeze	1
+3:	losange	1
+4:	pentagone	1
+5:	hexagone	1
+6:	cercle	0
+7:	rectangle	0
+8:	triangle	0
+9:	octogone	0
+10:	ovale	0
+
+██████   ██████  ██    ██ ███    ██ ██████ 		██████
+██   ██ ██    ██ ██    ██ ████   ██ ██   ██		     ██
+██████  ██    ██ ██    ██ ██ ██  ██ ██   ██		 █████
+██   ██ ██    ██ ██    ██ ██  ██ ██ ██   ██		██
+██   ██  ██████   ██████  ██   ████ ██████ 		███████
+
+┌┐┌┌─┐┬ ┬  ┌┬┐┌─┐┌┬┐┌─┐┬ ┬		
+│││├┤ │││  │││├─┤ │ │  ├─┤		
+┘└┘└─┘└┴┘  ┴ ┴┴ ┴ ┴ └─┘┴ ┴		
+Le groupe 'carre' va affronter le groupe 'trapeze' au jeu du morpion.
+Le groupe 'carre' a le symbole X. Et le groupe 'trapeze' a le symbole O.
+
+C'est au tour du groupe 'trapeze' de jouer.
+Choisissez une case libre : 3
+
+_ _ O 
+_ _ _ 
+_ _ _ 
+
+C'est au tour du groupe 'carre' de jouer.
+Choisissez une case libre : 5
+
+_ _ O 
+_ X _ 
+_ _ _ 
+
+C'est au tour du groupe 'trapeze' de jouer.
+Choisissez une case libre : 2
+
+_ O O 
+_ X _ 
+_ _ _ 
+
+C'est au tour du groupe 'carre' de jouer.
+Choisissez une case libre : 8
+
+_ O O 
+_ X _ 
+_ X _ 
+
+C'est au tour du groupe 'trapeze' de jouer.
+Choisissez une case libre : 7
+
+_ O O 
+_ X _ 
+O X _ 
+
+C'est au tour du groupe 'carre' de jouer.
+Choisissez une case libre : 4
+
+_ O O 
+X X _ 
+O X _ 
+
+C'est au tour du groupe 'trapeze' de jouer.
+Choisissez une case libre : 1
+
+O O O 
+X X _ 
+O X _ 
+Victoire du groupe 'trapeze' ! Il remporte 1 point.
+
+┌┐┌┌─┐┬ ┬  ┌┬┐┌─┐┌┬┐┌─┐┬ ┬		
+│││├┤ │││  │││├─┤ │ │  ├─┤		
+┘└┘└─┘└┴┘  ┴ ┴┴ ┴ ┴ └─┘┴ ┴		
+Le groupe 'losange' va affronter le groupe 'pentagone' au jeu du morpion.
+Le groupe 'losange' a le symbole X. Et le groupe 'pentagone' a le symbole O.
+
+C'est au tour du groupe 'losange' de jouer.
+Choisissez une case libre : 8
+
+_ _ _ 
+_ _ _ 
+_ X _ 
+
+C'est au tour du groupe 'pentagone' de jouer.
+Choisissez une case libre : 1
+
+O _ _ 
+_ _ _ 
+_ X _ 
+
+C'est au tour du groupe 'losange' de jouer.
+Choisissez une case libre : 6
+
+O _ _ 
+_ _ X 
+_ X _ 
+
+C'est au tour du groupe 'pentagone' de jouer.
+Choisissez une case libre : 9
+
+O _ _ 
+_ _ X 
+_ X O 
+
+C'est au tour du groupe 'losange' de jouer.
+Choisissez une case libre : 2
+
+O X _ 
+_ _ X 
+_ X O 
+
+C'est au tour du groupe 'pentagone' de jouer.
+Choisissez une case libre : 3
+
+O X O 
+_ _ X 
+_ X O 
+
+C'est au tour du groupe 'losange' de jouer.
+Choisissez une case libre : 7
+
+O X O 
+_ _ X 
+X X O 
+
+C'est au tour du groupe 'pentagone' de jouer.
+Choisissez une case libre : 4
+
+O X O 
+O _ X 
+X X O 
+
+C'est au tour du groupe 'losange' de jouer.
+Choisissez une case libre : 5
+
+O X O 
+O X X 
+X X O 
+Victoire du groupe 'losange' ! Il remporte 1 point.
+
+┌┐┌┌─┐┬ ┬  ┌┬┐┌─┐┌┬┐┌─┐┬ ┬		
+│││├┤ │││  │││├─┤ │ │  ├─┤		
+┘└┘└─┘└┴┘  ┴ ┴┴ ┴ ┴ └─┘┴ ┴		
+Le groupe 'hexagone' va affronter le groupe 'rectangle' au jeu du morpion.
+Le groupe 'hexagone' a le symbole X. Et le groupe 'rectangle' a le symbole O.
+
+C'est au tour du groupe 'rectangle' de jouer.
+Choisissez une case libre : 3
+
+_ _ O 
+_ _ _ 
+_ _ _ 
+
+C'est au tour du groupe 'hexagone' de jouer.
+Choisissez une case libre : 4
+
+_ _ O 
+X _ _ 
+_ _ _ 
+
+C'est au tour du groupe 'rectangle' de jouer.
+Choisissez une case libre : 9
+
+_ _ O 
+X _ _ 
+_ _ O 
+
+C'est au tour du groupe 'hexagone' de jouer.
+Choisissez une case libre : 8
+
+_ _ O 
+X _ _ 
+_ X O 
+
+C'est au tour du groupe 'rectangle' de jouer.
+Choisissez une case libre : 5
+
+_ _ O 
+X O _ 
+_ X O 
+
+C'est au tour du groupe 'hexagone' de jouer.
+Choisissez une case libre : 1
+
+X _ O 
+X O _ 
+_ X O 
+
+C'est au tour du groupe 'rectangle' de jouer.
+Choisissez une case libre : 2
+
+X O O 
+X O _ 
+_ X O 
+
+C'est au tour du groupe 'hexagone' de jouer.
+Choisissez une case libre : 6
+
+X O O 
+X O X 
+_ X O 
+
+C'est au tour du groupe 'rectangle' de jouer.
+Choisissez une case libre : 7
+
+X O O 
+X O X 
+O X O 
+Victoire du groupe 'rectangle' ! Il remporte 1 point.
+
+┌┐┌┌─┐┬ ┬  ┌┬┐┌─┐┌┬┐┌─┐┬ ┬		
+│││├┤ │││  │││├─┤ │ │  ├─┤		
+┘└┘└─┘└┴┘  ┴ ┴┴ ┴ ┴ └─┘┴ ┴		
+Le groupe 'cercle' va affronter le groupe 'triangle' au jeu du morpion.
+Le groupe 'cercle' a le symbole X. Et le groupe 'triangle' a le symbole O.
+
+C'est au tour du groupe 'triangle' de jouer.
+Choisissez une case libre : 2
+
+_ O _ 
+_ _ _ 
+_ _ _ 
+
+C'est au tour du groupe 'cercle' de jouer.
+Choisissez une case libre : 3
+
+_ O X 
+_ _ _ 
+_ _ _ 
+
+C'est au tour du groupe 'triangle' de jouer.
+Choisissez une case libre : 4
+
+_ O X 
+O _ _ 
+_ _ _ 
+
+C'est au tour du groupe 'cercle' de jouer.
+Choisissez une case libre : 1
+
+X O X 
+O _ _ 
+_ _ _ 
+
+C'est au tour du groupe 'triangle' de jouer.
+Choisissez une case libre : 8
+
+X O X 
+O _ _ 
+_ O _ 
+
+C'est au tour du groupe 'cercle' de jouer.
+Choisissez une case libre : 7
+
+X O X 
+O _ _ 
+X O _ 
+
+C'est au tour du groupe 'triangle' de jouer.
+Choisissez une case libre : 6
+
+X O X 
+O _ O 
+X O _ 
+
+C'est au tour du groupe 'cercle' de jouer.
+Choisissez une case libre : 5
+
+X O X 
+O X O 
+X O _ 
+Victoire du groupe 'cercle' ! Il remporte 1 point.
+
+┌┐┌┌─┐┬ ┬  ┌┬┐┌─┐┌┬┐┌─┐┬ ┬		
+│││├┤ │││  │││├─┤ │ │  ├─┤		
+┘└┘└─┘└┴┘  ┴ ┴┴ ┴ ┴ └─┘┴ ┴		
+Le groupe 'octogone' va affronter le groupe 'ovale' au jeu du morpion.
+Le groupe 'octogone' a le symbole X. Et le groupe 'ovale' a le symbole O.
+
+C'est au tour du groupe 'ovale' de jouer.
+Choisissez une case libre : 1
+
+O _ _ 
+_ _ _ 
+_ _ _ 
+
+C'est au tour du groupe 'octogone' de jouer.
+Choisissez une case libre : 7
+
+O _ _ 
+_ _ _ 
+X _ _ 
+
+C'est au tour du groupe 'ovale' de jouer.
+Choisissez une case libre : 5
+
+O _ _ 
+_ O _ 
+X _ _ 
+
+C'est au tour du groupe 'octogone' de jouer.
+Choisissez une case libre : 2
+
+O X _ 
+_ O _ 
+X _ _ 
+
+C'est au tour du groupe 'ovale' de jouer.
+Choisissez une case libre : 6
+
+O X _ 
+_ O O 
+X _ _ 
+
+C'est au tour du groupe 'octogone' de jouer.
+Choisissez une case libre : 4
+
+O X _ 
+X O O 
+X _ _ 
+
+C'est au tour du groupe 'ovale' de jouer.
+Choisissez une case libre : 8
+
+O X _ 
+X O O 
+X O _ 
+
+C'est au tour du groupe 'octogone' de jouer.
+Choisissez une case libre : 9
+
+O X _ 
+X O O 
+X O X 
+
+C'est au tour du groupe 'ovale' de jouer.
+Choisissez une case libre : 3
+
+O X O 
+X O O 
+X O X 
+Les deux équipes sont à égalité, ils remportent par conséquent 0,5 point chacun.
+
+┬─┐┌─┐┌─┐┬ ┬┬ ┌┬┐┌─┐┌┬┐		
+├┬┘├┤ └─┐│ ││  │ ├─┤ │		
+┴└─└─┘└─┘└─┘┴─┘┴ ┴ ┴ ┴		
+Classement  -  Groupe  -  Points
+1:	losange	2
+2:	carre	1
+3:	trapeze	1
+4:	pentagone	1
+5:	hexagone	1
+6:	cercle	1
+7:	octogone	0.5
+8:	rectangle	0
+9:	triangle	0
+10:	ovale	0
+
+██████   ██████  ██    ██ ███    ██ ██████ 		██████
+██   ██ ██    ██ ██    ██ ████   ██ ██   ██		     ██ 
+██████  ██    ██ ██    ██ ██ ██  ██ ██   ██		 █████
+██   ██ ██    ██ ██    ██ ██  ██ ██ ██   ██		     ██
+██   ██  ██████   ██████  ██   ████ ██████ 		██████
+
+┌┐┌┌─┐┬ ┬  ┌┬┐┌─┐┌┬┐┌─┐┬ ┬		
+│││├┤ │││  │││├─┤ │ │  ├─┤		
+┘└┘└─┘└┴┘  ┴ ┴┴ ┴ ┴ └─┘┴ ┴		
+Le groupe 'losange' va affronter le groupe 'carre' au jeu du pile ou face.
+La partie se déroulera sur 5 manches, le groupe 'losange' a le côté pile et le groupe 'carre' a pour côté face.
+
+Manche n°1:
+	Le résultat du lancée est face, manche gagnée par le groupe 'carre'.
+	Score : 0(losange)  -  1(carre)
+Manche n°2:
+	Le résultat du lancée est pile, manche gagnée par le groupe 'losange'.
+	Score : 1(losange)  -  1(carre)
+Manche n°3:
+	Le résultat du lancée est pile, manche gagnée par le groupe 'losange'.
+	Score : 2(losange)  -  1(carre)
+Manche n°4:
+	Le résultat du lancée est pile, manche gagnée par le groupe 'losange'.
+	Score : 3(losange)  -  1(carre)
+
+Victoire du groupe 'losange' ! Il remporte 1 point.
+
+┌┐┌┌─┐┬ ┬  ┌┬┐┌─┐┌┬┐┌─┐┬ ┬		
+│││├┤ │││  │││├─┤ │ │  ├─┤		
+┘└┘└─┘└┴┘  ┴ ┴┴ ┴ ┴ └─┘┴ ┴		
+Le groupe 'trapeze' va affronter le groupe 'pentagone' au jeu du pile ou face.
+La partie se déroulera sur 5 manches, le groupe 'trapeze' a le côté pile et le groupe 'pentagone' a pour côté face.
+
+Manche n°1:
+	Le résultat du lancée est pile, manche gagnée par le groupe 'trapeze'.
+	Score : 1(trapeze)  -  0(pentagone)
+Manche n°2:
+	Le résultat du lancée est face, manche gagnée par le groupe 'pentagone'.
+	Score : 1(trapeze)  -  1(pentagone)
+Manche n°3:
+	Le résultat du lancée est pile, manche gagnée par le groupe 'trapeze'.
+	Score : 2(trapeze)  -  1(pentagone)
+Manche n°4:
+	Le résultat du lancée est pile, manche gagnée par le groupe 'trapeze'.
+	Score : 3(trapeze)  -  1(pentagone)
+
+Victoire du groupe 'trapeze' ! Il remporte 1 point.
+
+┌┐┌┌─┐┬ ┬  ┌┬┐┌─┐┌┬┐┌─┐┬ ┬		
+│││├┤ │││  │││├─┤ │ │  ├─┤		
+┘└┘└─┘└┴┘  ┴ ┴┴ ┴ ┴ └─┘┴ ┴		
+Le groupe 'hexagone' va affronter le groupe 'octogone' au jeu du pile ou face.
+La partie se déroulera sur 5 manches, le groupe 'hexagone' a le côté pile et le groupe 'octogone' a pour côté face.
+
+Manche n°1:
+	Le résultat du lancée est face, manche gagnée par le groupe 'octogone'.
+	Score : 0(hexagone)  -  1(octogone)
+Manche n°2:
+	Le résultat du lancée est pile, manche gagnée par le groupe 'hexagone'.
+	Score : 1(hexagone)  -  1(octogone)
+Manche n°3:
+	Le résultat du lancée est face, manche gagnée par le groupe 'octogone'.
+	Score : 1(hexagone)  -  2(octogone)
+Manche n°4:
+	Le résultat du lancée est face, manche gagnée par le groupe 'octogone'.
+	Score : 1(hexagone)  -  3(octogone)
+
+Victoire du groupe 'octogone' ! Il remporte 1 point.
+
+┌┐┌┌─┐┬ ┬  ┌┬┐┌─┐┌┬┐┌─┐┬ ┬		
+│││├┤ │││  │││├─┤ │ │  ├─┤		
+┘└┘└─┘└┴┘  ┴ ┴┴ ┴ ┴ └─┘┴ ┴		
+Le groupe 'cercle' va affronter le groupe 'rectangle' au jeu du pile ou face.
+La partie se déroulera sur 5 manches, le groupe 'cercle' a le côté pile et le groupe 'rectangle' a pour côté face.
+
+Manche n°1:
+	Le résultat du lancée est face, manche gagnée par le groupe 'rectangle'.
+	Score : 0(cercle)  -  1(rectangle)
+Manche n°2:
+	Le résultat du lancée est pile, manche gagnée par le groupe 'cercle'.
+	Score : 1(cercle)  -  1(rectangle)
+Manche n°3:
+	Le résultat du lancée est face, manche gagnée par le groupe 'rectangle'.
+	Score : 1(cercle)  -  2(rectangle)
+Manche n°4:
+	Le résultat du lancée est face, manche gagnée par le groupe 'rectangle'.
+	Score : 1(cercle)  -  3(rectangle)
+
+Victoire du groupe 'rectangle' ! Il remporte 1 point.
+
+┌┐┌┌─┐┬ ┬  ┌┬┐┌─┐┌┬┐┌─┐┬ ┬		
+│││├┤ │││  │││├─┤ │ │  ├─┤		
+┘└┘└─┘└┴┘  ┴ ┴┴ ┴ ┴ └─┘┴ ┴		
+Le groupe 'triangle' va affronter le groupe 'ovale' au jeu du pile ou face.
+La partie se déroulera sur 5 manches, le groupe 'triangle' a le côté pile et le groupe 'ovale' a pour côté face.
+
+Manche n°1:
+	Le résultat du lancée est face, manche gagnée par le groupe 'ovale'.
+	Score : 0(triangle)  -  1(ovale)
+Manche n°2:
+	Le résultat du lancée est face, manche gagnée par le groupe 'ovale'.
+	Score : 0(triangle)  -  2(ovale)
+Manche n°3:
+	Le résultat du lancée est pile, manche gagnée par le groupe 'triangle'.
+	Score : 1(triangle)  -  2(ovale)
+Manche n°4:
+	Le résultat du lancée est pile, manche gagnée par le groupe 'triangle'.
+	Score : 2(triangle)  -  2(ovale)
+
+Les deux équipes sont à égalité, ils remportent par conséquent 0,5 point chacun.
+
+┬─┐┌─┐┌─┐┬ ┬┬ ┌┬┐┌─┐┌┬┐		
+├┬┘├┤ └─┐│ ││  │ ├─┤ │		
+┴└─└─┘└─┘└─┘┴─┘┴ ┴ ┴ ┴		
+Classement  -  Groupe  -  Points
+1:	losange	3
+2:	trapeze	2
+3:	carre	1
+4:	pentagone	1
+5:	hexagone	1
+6:	cercle	1
+7:	octogone	0.5
+8:	triangle	0.5
+9:	rectangle	0
+10:	ovale	0
+
+██████   ██████  ██    ██ ███    ██ ██████ 		██   ██
+██   ██ ██    ██ ██    ██ ████   ██ ██   ██		██   ██
+██████  ██    ██ ██    ██ ██ ██  ██ ██   ██		███████
+██   ██ ██    ██ ██    ██ ██  ██ ██ ██   ██		     ██
+██   ██  ██████   ██████  ██   ████ ██████ 		     ██
+
+┌┐┌┌─┐┬ ┬  ┌┬┐┌─┐┌┬┐┌─┐┬ ┬		
+│││├┤ │││  │││├─┤ │ │  ├─┤		
+┘└┘└─┘└┴┘  ┴ ┴┴ ┴ ┴ └─┘┴ ┴		
+Le groupe 'losange' va affronter le groupe 'trapeze' au jeu du pendu.
+Le groupe 'losange' va choisir un mot et le groupe 'trapeze' va devoir le trouver.
+Saisir le mot a trouver : 
+famille
+
+Saisir une lettre : Bien joué ! La lettre 'f' est bien dans le mot.
+f******
+
+Saisir une lettre : Dommage ! La lettre 'u' n'est pas dans le mot.
+Il ne vous reste plus que 7 point(s) de vie(s).
+f******
+
+Saisir une lettre : Bien joué ! La lettre 'm' est bien dans le mot.
+f*m****
+
+Saisir une lettre : Dommage ! La lettre 't' n'est pas dans le mot.
+Il ne vous reste plus que 6 point(s) de vie(s).
+f*m****
+
+Saisir une lettre : Dommage ! La lettre 'j' n'est pas dans le mot.
+Il ne vous reste plus que 5 point(s) de vie(s).
+f*m****
+
+Saisir une lettre : Dommage ! La lettre 'v' n'est pas dans le mot.
+Il ne vous reste plus que 4 point(s) de vie(s).
+f*m****
+
+Saisir une lettre : Dommage ! La lettre 'w' n'est pas dans le mot.
+Il ne vous reste plus que 3 point(s) de vie(s).
+f*m****
+
+Saisir une lettre : Dommage ! La lettre 'p' n'est pas dans le mot.
+Il ne vous reste plus que 2 point(s) de vie(s).
+f*m****
+
+Saisir une lettre : Dommage ! La lettre 'k' n'est pas dans le mot.
+Il ne vous reste plus que 1 point(s) de vie(s).
+f*m****
+
+Saisir une lettre : Dommage ! La lettre 'z' n'est pas dans le mot.
+Il ne vous reste plus que 0 point(s) de vie(s).
+f*m****
+
+Bravo au groupe 'losange' qui gagne la partie ! Il remporte 1 point
+
+┌┐┌┌─┐┬ ┬  ┌┬┐┌─┐┌┬┐┌─┐┬ ┬		
+│││├┤ │││  │││├─┤ │ │  ├─┤		
+┘└┘└─┘└┴┘  ┴ ┴┴ ┴ ┴ └─┘┴ ┴		
+Le groupe 'carre' va affronter le groupe 'pentagone' au jeu du pendu.
+Le groupe 'carre' va choisir un mot et le groupe 'pentagone' va devoir le trouver.
+Saisir le mot a trouver : 
+famille
+
+Saisir une lettre : Dommage ! La lettre 'o' n'est pas dans le mot.
+Il ne vous reste plus que 7 point(s) de vie(s).
+*******
+
+Saisir une lettre : Dommage ! La lettre 'b' n'est pas dans le mot.
+Il ne vous reste plus que 6 point(s) de vie(s).
+*******
+
+Saisir une lettre : Dommage ! La lettre 'h' n'est pas dans le mot.
+Il ne vous reste plus que 5 point(s) de vie(s).
+*******
+
+Saisir une lettre : Dommage ! La lettre 'k' n'est pas dans le mot.
+Il ne vous reste plus que 4 point(s) de vie(s).
+*******
+
+Saisir une lettre : Dommage ! La lettre 'w' n'est pas dans le mot.
+Il ne vous reste plus que 3 point(s) de vie(s).
+*******
+
+Saisir une lettre : Dommage ! La lettre 'v' n'est pas dans le mot.
+Il ne vous reste plus que 2 point(s) de vie(s).
+*******
+
+Saisir une lettre : Bien joué ! La lettre 'e' est bien dans le mot.
+******e
+
+Saisir une lettre : Dommage ! La lettre 'j' n'est pas dans le mot.
+Il ne vous reste plus que 1 point(s) de vie(s).
+******e
+
+Saisir une lettre : Bien joué ! La lettre 'f' est bien dans le mot.
+f*****e
+
+Saisir une lettre : Dommage ! La lettre 'n' n'est pas dans le mot.
+Il ne vous reste plus que 0 point(s) de vie(s).
+f*****e
+
+Bravo au groupe 'carre' qui gagne la partie ! Il remporte 1 point
+
+┌┐┌┌─┐┬ ┬  ┌┬┐┌─┐┌┬┐┌─┐┬ ┬		
+│││├┤ │││  │││├─┤ │ │  ├─┤		
+┘└┘└─┘└┴┘  ┴ ┴┴ ┴ ┴ └─┘┴ ┴		
+Le groupe 'hexagone' va affronter le groupe 'triangle' au jeu du pendu.
+Le groupe 'hexagone' va choisir un mot et le groupe 'triangle' va devoir le trouver.
+Saisir le mot a trouver : 
+famille
+
+Saisir une lettre : Dommage ! La lettre 'v' n'est pas dans le mot.
+Il ne vous reste plus que 7 point(s) de vie(s).
+*******
+
+Saisir une lettre : Dommage ! La lettre 'r' n'est pas dans le mot.
+Il ne vous reste plus que 6 point(s) de vie(s).
+*******
+
+Saisir une lettre : Bien joué ! La lettre 'm' est bien dans le mot.
+**m****
+
+Saisir une lettre : Dommage ! La lettre 'y' n'est pas dans le mot.
+Il ne vous reste plus que 5 point(s) de vie(s).
+**m****
+
+Saisir une lettre : Dommage ! La lettre 'j' n'est pas dans le mot.
+Il ne vous reste plus que 4 point(s) de vie(s).
+**m****
+
+Saisir une lettre : Dommage ! La lettre 'h' n'est pas dans le mot.
+Il ne vous reste plus que 3 point(s) de vie(s).
+**m****
+
+Saisir une lettre : Dommage ! La lettre 'n' n'est pas dans le mot.
+Il ne vous reste plus que 2 point(s) de vie(s).
+**m****
+
+Saisir une lettre : Dommage ! La lettre 'd' n'est pas dans le mot.
+Il ne vous reste plus que 1 point(s) de vie(s).
+**m****
+
+Saisir une lettre : Dommage ! La lettre 'w' n'est pas dans le mot.
+Il ne vous reste plus que 0 point(s) de vie(s).
+**m****
+
+Bravo au groupe 'hexagone' qui gagne la partie ! Il remporte 1 point
+
+┌┐┌┌─┐┬ ┬  ┌┬┐┌─┐┌┬┐┌─┐┬ ┬		
+│││├┤ │││  │││├─┤ │ │  ├─┤		
+┘└┘└─┘└┴┘  ┴ ┴┴ ┴ ┴ └─┘┴ ┴		
+Le groupe 'cercle' va affronter le groupe 'octogone' au jeu du pendu.
+Le groupe 'cercle' va choisir un mot et le groupe 'octogone' va devoir le trouver.
+Saisir le mot a trouver : 
+famille
+
+Saisir une lettre : Dommage ! La lettre 'v' n'est pas dans le mot.
+Il ne vous reste plus que 7 point(s) de vie(s).
+*******
+
+Saisir une lettre : Dommage ! La lettre 'n' n'est pas dans le mot.
+Il ne vous reste plus que 6 point(s) de vie(s).
+*******
+
+Saisir une lettre : Dommage ! La lettre 'z' n'est pas dans le mot.
+Il ne vous reste plus que 5 point(s) de vie(s).
+*******
+
+Saisir une lettre : Dommage ! La lettre 's' n'est pas dans le mot.
+Il ne vous reste plus que 4 point(s) de vie(s).
+*******
+
+Saisir une lettre : Dommage ! La lettre 'c' n'est pas dans le mot.
+Il ne vous reste plus que 3 point(s) de vie(s).
+*******
+
+Saisir une lettre : Dommage ! La lettre 'y' n'est pas dans le mot.
+Il ne vous reste plus que 2 point(s) de vie(s).
+*******
+
+Saisir une lettre : Dommage ! La lettre 'b' n'est pas dans le mot.
+Il ne vous reste plus que 1 point(s) de vie(s).
+*******
+
+Saisir une lettre : Dommage ! La lettre 'q' n'est pas dans le mot.
+Il ne vous reste plus que 0 point(s) de vie(s).
+*******
+
+Bravo au groupe 'cercle' qui gagne la partie ! Il remporte 1 point
+
+┌┐┌┌─┐┬ ┬  ┌┬┐┌─┐┌┬┐┌─┐┬ ┬		
+│││├┤ │││  │││├─┤ │ │  ├─┤		
+┘└┘└─┘└┴┘  ┴ ┴┴ ┴ ┴ └─┘┴ ┴		
+Le groupe 'rectangle' va affronter le groupe 'ovale' au jeu du pendu.
+Le groupe 'rectangle' va choisir un mot et le groupe 'ovale' va devoir le trouver.
+Saisir le mot a trouver : 
+famille
+
+Saisir une lettre : Dommage ! La lettre 'y' n'est pas dans le mot.
+Il ne vous reste plus que 7 point(s) de vie(s).
+*******
+
+Saisir une lettre : Dommage ! La lettre 'q' n'est pas dans le mot.
+Il ne vous reste plus que 6 point(s) de vie(s).
+*******
+
+Saisir une lettre : Dommage ! La lettre 'o' n'est pas dans le mot.
+Il ne vous reste plus que 5 point(s) de vie(s).
+*******
+
+Saisir une lettre : Bien joué ! La lettre 'm' est bien dans le mot.
+**m****
+
+Saisir une lettre : Dommage ! La lettre 'z' n'est pas dans le mot.
+Il ne vous reste plus que 4 point(s) de vie(s).
+**m****
+
+Saisir une lettre : Dommage ! La lettre 't' n'est pas dans le mot.
+Il ne vous reste plus que 3 point(s) de vie(s).
+**m****
+
+Saisir une lettre : Dommage ! La lettre 'j' n'est pas dans le mot.
+Il ne vous reste plus que 2 point(s) de vie(s).
+**m****
+
+Saisir une lettre : Bien joué ! La lettre 'l' est bien dans le mot.
+**m*ll*
+
+Saisir une lettre : Dommage ! La lettre 'd' n'est pas dans le mot.
+Il ne vous reste plus que 1 point(s) de vie(s).
+**m*ll*
+
+Saisir une lettre : Bien joué ! La lettre 'i' est bien dans le mot.
+**mill*
+
+Saisir une lettre : Bien joué ! La lettre 'a' est bien dans le mot.
+*amill*
+
+Saisir une lettre : Dommage ! La lettre 'p' n'est pas dans le mot.
+Il ne vous reste plus que 0 point(s) de vie(s).
+*amill*
+
+Bravo au groupe 'rectangle' qui gagne la partie ! Il remporte 1 point
+
+┬─┐┌─┐┌─┐┬ ┬┬ ┌┬┐┌─┐┌┬┐		
+├┬┘├┤ └─┐│ ││  │ ├─┤ │		
+┴└─└─┘└─┘└─┘┴─┘┴ ┴ ┴ ┴		
+Classement  -  Groupe  -  Points
+1:	losange	4
+2:	trapeze	2
+3:	carre	2
+4:	hexagone	2
+5:	cercle	2
+6:	pentagone	1
+7:	rectangle	1
+8:	octogone	0.5
+9:	triangle	0.5
+10:	ovale	0

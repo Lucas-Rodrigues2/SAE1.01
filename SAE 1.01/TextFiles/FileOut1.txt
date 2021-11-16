@@ -1,0 +1,414 @@
+
+██████   ██████  ██    ██ ███    ██ ██████ 		  ██
+██   ██ ██    ██ ██    ██ ████   ██ ██   ██		████
+██████  ██    ██ ██    ██ ██ ██  ██ ██   ██		  ██
+██   ██ ██    ██ ██    ██ ██  ██ ██ ██   ██		  ██
+██   ██  ██████   ██████  ██   ████ ██████ 		  ██
+
+┌┐┌┌─┐┬ ┬  ┌┬┐┌─┐┌┬┐┌─┐┬ ┬		
+│││├┤ │││  │││├─┤ │ │  ├─┤		
+┘└┘└─┘└┴┘  ┴ ┴┴ ┴ ┴ └─┘┴ ┴		
+Le groupe 'carre' va affronter le groupe 'cercle' au jeu de l'âge du capitaine.
+Que le groupe 'carre' saisisse l'âge du capitaine (entre 1 et 100) : 52
+
+Que le groupe 'cercle' saisissie un âge : 27
+Dommage, c'est plus ! Il vous reste 7 essais.
+
+Que le groupe 'cercle' saisissie un âge : 43
+Dommage, c'est plus ! Il vous reste 6 essais.
+
+Que le groupe 'cercle' saisissie un âge : 94
+Dommage, c'est moins ! Il vous reste 5 essais.
+
+Que le groupe 'cercle' saisissie un âge : 92
+Dommage, c'est moins ! Il vous reste 4 essais.
+
+Que le groupe 'cercle' saisissie un âge : 53
+Dommage, c'est moins ! Il vous reste 3 essais.
+
+Que le groupe 'cercle' saisissie un âge : 51
+Dommage, c'est plus ! Il vous reste 2 essais.
+
+Que le groupe 'cercle' saisissie un âge : 52
+Bien joué ! Vous avez trouvé l'âge du capitaine.
+
+Le groupe 'cercle' remporte 1 point.
+
+┌┐┌┌─┐┬ ┬  ┌┬┐┌─┐┌┬┐┌─┐┬ ┬		
+│││├┤ │││  │││├─┤ │ │  ├─┤		
+┘└┘└─┘└┴┘  ┴ ┴┴ ┴ ┴ └─┘┴ ┴		
+Le groupe 'rectangle' va affronter le groupe 'triangle' au jeu de l'âge du capitaine.
+Que le groupe 'rectangle' saisisse l'âge du capitaine (entre 1 et 100) : 77
+
+Que le groupe 'triangle' saisissie un âge : 71
+Dommage, c'est plus ! Il vous reste 7 essais.
+
+Que le groupe 'triangle' saisissie un âge : 72
+Dommage, c'est plus ! Il vous reste 6 essais.
+
+Que le groupe 'triangle' saisissie un âge : 96
+Dommage, c'est moins ! Il vous reste 5 essais.
+
+Que le groupe 'triangle' saisissie un âge : 80
+Dommage, c'est moins ! Il vous reste 4 essais.
+
+Que le groupe 'triangle' saisissie un âge : 73
+Dommage, c'est plus ! Il vous reste 3 essais.
+
+Que le groupe 'triangle' saisissie un âge : 74
+Dommage, c'est plus ! Il vous reste 2 essais.
+
+Que le groupe 'triangle' saisissie un âge : 77
+Bien joué ! Vous avez trouvé l'âge du capitaine.
+
+Le groupe 'triangle' remporte 1 point.
+
+┌┐┌┌─┐┬ ┬  ┌┬┐┌─┐┌┬┐┌─┐┬ ┬		
+│││├┤ │││  │││├─┤ │ │  ├─┤		
+┘└┘└─┘└┴┘  ┴ ┴┴ ┴ ┴ └─┘┴ ┴		
+Le groupe 'octogone' va affronter le groupe 'trapeze' au jeu de l'âge du capitaine.
+Que le groupe 'octogone' saisisse l'âge du capitaine (entre 1 et 100) : 38
+
+Que le groupe 'trapeze' saisissie un âge : 94
+Dommage, c'est moins ! Il vous reste 7 essais.
+
+Que le groupe 'trapeze' saisissie un âge : 27
+Dommage, c'est plus ! Il vous reste 6 essais.
+
+Que le groupe 'trapeze' saisissie un âge : 77
+Dommage, c'est moins ! Il vous reste 5 essais.
+
+Que le groupe 'trapeze' saisissie un âge : 38
+Bien joué ! Vous avez trouvé l'âge du capitaine.
+
+Le groupe 'trapeze' remporte 1 point.
+
+┌┐┌┌─┐┬ ┬  ┌┬┐┌─┐┌┬┐┌─┐┬ ┬		
+│││├┤ │││  │││├─┤ │ │  ├─┤		
+┘└┘└─┘└┴┘  ┴ ┴┴ ┴ ┴ └─┘┴ ┴		
+Le groupe 'losange' va affronter le groupe 'pentagone' au jeu de l'âge du capitaine.
+Que le groupe 'losange' saisisse l'âge du capitaine (entre 1 et 100) : 3
+
+Que le groupe 'pentagone' saisissie un âge : 65
+Dommage, c'est moins ! Il vous reste 7 essais.
+
+Que le groupe 'pentagone' saisissie un âge : 52
+Dommage, c'est moins ! Il vous reste 6 essais.
+
+Que le groupe 'pentagone' saisissie un âge : 48
+Dommage, c'est moins ! Il vous reste 5 essais.
+
+Que le groupe 'pentagone' saisissie un âge : 18
+Dommage, c'est moins ! Il vous reste 4 essais.
+
+Que le groupe 'pentagone' saisissie un âge : 7
+Dommage, c'est moins ! Il vous reste 3 essais.
+
+Que le groupe 'pentagone' saisissie un âge : 2
+Dommage, c'est plus ! Il vous reste 2 essais.
+
+Que le groupe 'pentagone' saisissie un âge : 3
+Bien joué ! Vous avez trouvé l'âge du capitaine.
+
+Le groupe 'pentagone' remporte 1 point.
+
+┌┐┌┌─┐┬ ┬  ┌┬┐┌─┐┌┬┐┌─┐┬ ┬		
+│││├┤ │││  │││├─┤ │ │  ├─┤		
+┘└┘└─┘└┴┘  ┴ ┴┴ ┴ ┴ └─┘┴ ┴		
+Le groupe 'hexagone' va affronter le groupe 'ovale' au jeu de l'âge du capitaine.
+Que le groupe 'hexagone' saisisse l'âge du capitaine (entre 1 et 100) : 30
+
+Que le groupe 'ovale' saisissie un âge : 71
+Dommage, c'est moins ! Il vous reste 7 essais.
+
+Que le groupe 'ovale' saisissie un âge : 30
+Bien joué ! Vous avez trouvé l'âge du capitaine.
+
+Le groupe 'ovale' remporte 1 point.
+
+┬─┐┌─┐┌─┐┬ ┬┬ ┌┬┐┌─┐┌┬┐		
+├┬┘├┤ └─┐│ ││  │ ├─┤ │		
+┴└─└─┘└─┘└─┘┴─┘┴ ┴ ┴ ┴		
+Classement  -  Groupe  -  Points
+1:	carre	0
+2:	cercle	0
+3:	rectangle	0
+4:	triangle	0
+5:	octogone	0
+6:	trapeze	0
+7:	losange	0
+8:	pentagone	0
+9:	hexagone	0
+10:	ovale	0
+
+██████   ██████  ██    ██ ███    ██ ██████ 		██████
+██   ██ ██    ██ ██    ██ ████   ██ ██   ██		     ██
+██████  ██    ██ ██    ██ ██ ██  ██ ██   ██		 █████
+██   ██ ██    ██ ██    ██ ██  ██ ██ ██   ██		██
+██   ██  ██████   ██████  ██   ████ ██████ 		███████
+
+┌┐┌┌─┐┬ ┬  ┌┬┐┌─┐┌┬┐┌─┐┬ ┬		
+│││├┤ │││  │││├─┤ │ │  ├─┤		
+┘└┘└─┘└┴┘  ┴ ┴┴ ┴ ┴ └─┘┴ ┴		
+Le groupe 'carre' va affronter le groupe 'rectangle' au jeu du morpion.
+Le groupe 'carre' a le symbole X. Et le groupe 'rectangle' a le symbole O.
+
+C'est au tour du groupe 'rectangle' de jouer.
+Choisissez une case libre : 1
+
+O _ _ 
+_ _ _ 
+_ _ _ 
+
+C'est au tour du groupe 'carre' de jouer.
+Choisissez une case libre : 9
+
+O _ _ 
+_ _ _ 
+_ _ X 
+
+C'est au tour du groupe 'rectangle' de jouer.
+Choisissez une case libre : 5
+
+O _ _ 
+_ O _ 
+_ _ X 
+
+C'est au tour du groupe 'carre' de jouer.
+Choisissez une case libre : 6
+
+O _ _ 
+_ O X 
+_ _ X 
+
+C'est au tour du groupe 'rectangle' de jouer.
+Choisissez une case libre : 8
+
+O _ _ 
+_ O X 
+_ O X 
+
+C'est au tour du groupe 'carre' de jouer.
+Choisissez une case libre : 4
+
+O _ _ 
+X O X 
+_ O X 
+
+C'est au tour du groupe 'rectangle' de jouer.
+Choisissez une case libre : 3
+
+O _ O 
+X O X 
+_ O X 
+
+C'est au tour du groupe 'carre' de jouer.
+Choisissez une case libre : 7
+
+O _ O 
+X O X 
+X O X 
+
+C'est au tour du groupe 'rectangle' de jouer.
+Choisissez une case libre : 2
+
+O O O 
+X O X 
+X O X 
+Victoire du groupe 'rectangle' ! Il remporte 1 point.
+
+┌┐┌┌─┐┬ ┬  ┌┬┐┌─┐┌┬┐┌─┐┬ ┬		
+│││├┤ │││  │││├─┤ │ │  ├─┤		
+┘└┘└─┘└┴┘  ┴ ┴┴ ┴ ┴ └─┘┴ ┴		
+Le groupe 'cercle' va affronter le groupe 'triangle' au jeu du morpion.
+Le groupe 'cercle' a le symbole X. Et le groupe 'triangle' a le symbole O.
+
+C'est au tour du groupe 'triangle' de jouer.
+Choisissez une case libre : 7
+
+_ _ _ 
+_ _ _ 
+O _ _ 
+
+C'est au tour du groupe 'cercle' de jouer.
+Choisissez une case libre : 3
+
+_ _ X 
+_ _ _ 
+O _ _ 
+
+C'est au tour du groupe 'triangle' de jouer.
+Choisissez une case libre : 6
+
+_ _ X 
+_ _ O 
+O _ _ 
+
+C'est au tour du groupe 'cercle' de jouer.
+Choisissez une case libre : 1
+
+X _ X 
+_ _ O 
+O _ _ 
+
+C'est au tour du groupe 'triangle' de jouer.
+Choisissez une case libre : 2
+
+X O X 
+_ _ O 
+O _ _ 
+
+C'est au tour du groupe 'cercle' de jouer.
+Choisissez une case libre : 9
+
+X O X 
+_ _ O 
+O _ X 
+
+C'est au tour du groupe 'triangle' de jouer.
+Choisissez une case libre : 8
+
+X O X 
+_ _ O 
+O O X 
+
+C'est au tour du groupe 'cercle' de jouer.
+Choisissez une case libre : 4
+
+X O X 
+X _ O 
+O O X 
+
+C'est au tour du groupe 'triangle' de jouer.
+Choisissez une case libre : 5
+
+X O X 
+X O O 
+O O X 
+Victoire du groupe 'triangle' ! Il remporte 1 point.
+
+┌┐┌┌─┐┬ ┬  ┌┬┐┌─┐┌┬┐┌─┐┬ ┬		
+│││├┤ │││  │││├─┤ │ │  ├─┤		
+┘└┘└─┘└┴┘  ┴ ┴┴ ┴ ┴ └─┘┴ ┴		
+Le groupe 'octogone' va affronter le groupe 'losange' au jeu du morpion.
+Le groupe 'octogone' a le symbole X. Et le groupe 'losange' a le symbole O.
+
+C'est au tour du groupe 'losange' de jouer.
+Choisissez une case libre : 8
+
+_ _ _ 
+_ _ _ 
+_ O _ 
+
+C'est au tour du groupe 'octogone' de jouer.
+Choisissez une case libre : 9
+
+_ _ _ 
+_ _ _ 
+_ O X 
+
+C'est au tour du groupe 'losange' de jouer.
+Choisissez une case libre : 6
+
+_ _ _ 
+_ _ O 
+_ O X 
+
+C'est au tour du groupe 'octogone' de jouer.
+Choisissez une case libre : 2
+
+_ X _ 
+_ _ O 
+_ O X 
+
+C'est au tour du groupe 'losange' de jouer.
+Choisissez une case libre : 1
+
+O X _ 
+_ _ O 
+_ O X 
+
+C'est au tour du groupe 'octogone' de jouer.
+Choisissez une case libre : 5
+
+O X _ 
+_ X O 
+_ O X 
+
+C'est au tour du groupe 'losange' de jouer.
+Choisissez une case libre : 4
+
+O X _ 
+O X O 
+_ O X 
+
+C'est au tour du groupe 'octogone' de jouer.
+Choisissez une case libre : 7
+
+O X _ 
+O X O 
+X O X 
+
+C'est au tour du groupe 'losange' de jouer.
+Choisissez une case libre : 3
+
+O X O 
+O X O 
+X O X 
+Les deux équipes sont à égalité, ils remportent par conséquent 0,5 point chacun.
+
+┌┐┌┌─┐┬ ┬  ┌┬┐┌─┐┌┬┐┌─┐┬ ┬		
+│││├┤ │││  │││├─┤ │ │  ├─┤		
+┘└┘└─┘└┴┘  ┴ ┴┴ ┴ ┴ └─┘┴ ┴		
+Le groupe 'trapeze' va affronter le groupe 'pentagone' au jeu du morpion.
+Le groupe 'trapeze' a le symbole X. Et le groupe 'pentagone' a le symbole O.
+
+C'est au tour du groupe 'pentagone' de jouer.
+Choisissez une case libre : 3
+
+_ _ O 
+_ _ _ 
+_ _ _ 
+
+C'est au tour du groupe 'trapeze' de jouer.
+Choisissez une case libre : 7
+
+_ _ O 
+_ _ _ 
+X _ _ 
+
+C'est au tour du groupe 'pentagone' de jouer.
+Choisissez une case libre : 5
+
+_ _ O 
+_ O _ 
+X _ _ 
+
+C'est au tour du groupe 'trapeze' de jouer.
+Choisissez une case libre : 1
+
+X _ O 
+_ O _ 
+X _ _ 
+
+C'est au tour du groupe 'pentagone' de jouer.
+Choisissez une case libre : 4
+
+X _ O 
+O O _ 
+X _ _ 
+
+C'est au tour du groupe 'trapeze' de jouer.
+Choisissez une case libre : 2
+
+X X O 
+O O _ 
+X _ _ 
+
+C'est au tour du groupe 'pentagone' de jouer.
+Choisissez une case libre : 6
+
+X X O 
+O O O 
+X _ _ 
+Victoire du groupe 'pentagone' ! Il remporte 1 point.
